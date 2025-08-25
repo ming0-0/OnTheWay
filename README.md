@@ -9,6 +9,16 @@
 </div>
 OnTheWay는 운전자와 여행객의 편리한 이동을 돕기 위해 개발된 웹 애플리케이션입니다. 이동 경로상의 휴게소, 편의시설, 입점 매장, 이벤트 정보 등을 통합적으로 제공하여 사용자들에게 최적화된 경로 계획 및 정보 탐색 경험을 선사합니다. 특히, 고속도로 휴게소 내의 브랜드 매장, 편의점, 푸드코트 등 상세 정보를 제공함으로써 사용자가 필요한 정보를 쉽고 빠르게 얻을 수 있도록 지원합니다.<br><br><br><br>
 
+## 👤 팀원 역할 소개 (Team Roles)
+<table>
+<tr>
+<td width="20%" align="center"><img src="https://avatars.githubusercontent.com/u/55340385?s=224&v=4" width="224" height="224" alt="박현규"/></td>
+<td width="20%" align="center"><img src="https://avatars.githubusercontent.com/u/199577596?s=224&v=4" width="224" height="224" alt="김민규"/></td>
+<td width="20%" align="center"><img src="https://avatars.githubusercontent.com/u/144861769?s=224&v=4" width="224" height="224" alt="노일권"/></td>
+<td width="20%" align="center"><img src="https://avatars.githubusercontent.com/u/84963361?s=224&v=4" width="224" height="224" alt="박호준"/></td>
+<td width="20%" align="center"><img src="https://avatars.githubusercontent.com/u/199577470?s=224&v=4" width="224" height="224" alt="조태민"/></td>
+</tr>
+
 
 ## 🛠️ 사용된 기술 (Tech Stack)<br>
 ### Frontend<br>
